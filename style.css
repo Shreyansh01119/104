@@ -1,0 +1,18 @@
+body{
+    background-color: blue;
+    color: azure;
+    font-size: 20px;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+    color: aqua;
+}
+#camera ,#result{
+    border: 5px solid white;
+    width: 350px;
+    height: 300px;
+}
+p{
+    color: yellowgreen;
+}
